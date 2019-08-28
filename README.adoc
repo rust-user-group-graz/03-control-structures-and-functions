@@ -1,0 +1,9 @@
+README
+======
+
+This presentation took place on 2019/08/28.
+
+* The markdown file was used to create the slides
+* resources/images are found in the folder img/
+* The HTML file is used for presentation
+* The PDF file was exported using Google Chromium
