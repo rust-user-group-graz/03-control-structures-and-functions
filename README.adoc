@@ -7,3 +7,5 @@ This presentation took place on 2019/08/28.
 * resources/images are found in the folder img/
 * The HTML file is used for presentation
 * The PDF file was exported using Google Chromium
+
+In particular, the following command was used for HTML generation: `pandoc -t revealjs -s -o rustgraz_talk_03.html rustgraz_talk_03.md --self-contained --standalone -V theme=white -V revealjs-url=https://revealjs.com`
